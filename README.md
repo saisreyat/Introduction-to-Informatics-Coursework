@@ -46,9 +46,10 @@ A comprehensive collection of coursework, assignments, and papers completed duri
 
 ### Simulation, Sampling, and Hypothesis Testing
 
-- Designing and conducting simulations.
-- Understanding the importance of sampling techniques.
-- Performing hypothesis testing and interpreting results.
+- Sampling Techniques
+- Hypothesis Testing
+- Statistical Analysis
+- Simulation
 
 ### Machine Learning
 
